@@ -20,3 +20,5 @@ Visual Studio Code
 * Install required npm packages using the command, **npm install**
 * Start the development server using the command **npm start** which will start application on http://localhost:3000 by default. Open this URL in your browser to view the application.
 
+  **Make sure to run frontend and backend code same time to use the application**
+
