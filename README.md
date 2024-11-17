@@ -13,5 +13,10 @@ Visual Studio Code
 
 ### Clone repository
 * clone the repostory from github to your local machine
-* git clone <repo url>
+* git clone https://github.com/Ambika-k/book_exchange_platform_ui.git
+
+### Setup in local machine
+* Navigate to project repository
+* Install required npm packages using the command, **npm install**
+* Start the development server using the command **npm start** which will start application on http://localhost:3000 by default. Open this URL in your browser to view the application.
 
