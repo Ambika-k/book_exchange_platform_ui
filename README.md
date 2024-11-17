@@ -13,5 +13,5 @@ Visual Studio Code
 
 ### Clone repository
 * clone the repostory from github to your local machine
-  git clone <repo url>
+* git clone <repo url>
 
